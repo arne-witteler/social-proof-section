@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --color-purple-900: hsl(300, 43%, 22%);
+  --color-purple-300: hsl(303, 10%, 53%);
+  --color-purple-100: hsl(300, 24%, 96%);
+  --color-pink-400: hsl(333, 80%, 67%);
+  --color-orange-400: hsl(28, 84%, 61%);
+
+  --font-family: 'League Spartan', sans-serif;
+  --font-weight-bold: 700;
+  --font-weight-medium: 500;
+  --font-weight-regular: 400;
+}
